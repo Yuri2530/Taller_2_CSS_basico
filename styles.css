@@ -1,0 +1,42 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Nerko One', cursive;
+    
+}
+.titulo-h1{
+    text-align: center;
+}
+
+.container-div{
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    border: 10px inset rgb(255, 238, 0);
+    margin-left: 20px;
+}
+
+.container-div__2{
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    border: 10px inset rgb(0, 4, 255);
+    margin-left: 20px;
+}
+.container-div__3{
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    border: 10px inset rgb(255, 38, 0);
+    margin-left: 20px;
+}
+
+.container-div__h3{
+    text-align: center;
+    font-size: 25px;
+}
+.container-img__img1{
+    width: 250px;
+    height: 200px;
+    
+}
